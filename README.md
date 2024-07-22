@@ -25,7 +25,7 @@ Important information for the management of RFPs.
 
 ## Process
 
-The process for submitting RFPs is open to all existing Fellowship members (i.e Rank I to IX). Anyone may provide comments on submitted RFPs.
+The process for submitting RFPs is open to all existing Fellowship members (i.e Rank I to IX). Anyone may provide comments on submitted RFPs. 
 
 To submit an RFP, follow these steps:
   * Fork the `RFPs` repository.
