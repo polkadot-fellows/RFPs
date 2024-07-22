@@ -4,7 +4,7 @@ This repository contains a number of Requests for Proposals (RFPs) detailing spe
 
 ## Guidelines
 
-Important information for the management of RFPs by RFP proposers and Fellowship members.
+Important information for the management of RFPs.
 
 |Steps |Description |Participants |
 |------|------------|-------------|
