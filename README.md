@@ -9,7 +9,7 @@ Important information for the management of RFPs.
 |Steps |Description |Participants |
 |------|------------|-------------|
 |1 |RFP proposer **drafts a new RFP** using the RFP template and **opens a PR in the `RFPs` repository on GitHub**. Fellowship members review the RFP. |RFP proposer, Fellowship members |
-|2 |RFP proposer liaises with a Fellow or Architect to **submit the RFP for on-chain approval on the `Members` track** and **announces the proposal** in the Polkadot Fellowship-only channel. |RFP proposer, Rank 3+ members |
+|2 |RFP proposer liaises with a Fellow or Architect (if applicable) to **submit the RFP for on-chain approval on the `Members` track** and **announces the proposal** in the Polkadot Fellowship-only channel. |RFP proposer, Rank 3+ members |
 |3 |Fellowship **rejects/approves the RFP** through on-chain voting. |Fellowship members |
 |4 |RFP proposer **announces the new RFP on Polkadot Forum** and in the Polkadot Fellowship open channel to formally invite applicants. |RFP proposer, builders |
 |5 |RFP applicants **contact RFP proposer for feedback on their initial proposals**. RFP proposer **evaluates, shortlists, and rejects** initial proposals. |RFP proposer, RFP applicants |
