@@ -32,7 +32,7 @@ To submit an RFP, follow these steps:
   * Copy the `0000-rfp-template.md` file into the `rfp` folder and rename it to match the title of the RFP.
   * Fill out the RFP template and open a PR.
   * Announce the RFP to the Fellowship and wait at least one week.
-  * If there are no major pushbacks by the Fellowship, the RFP can be submitted on-chain for approval or rejection.
+  * If there are no major pushbacks by the Fellowship, the RFP can be put to a vote.
 
 The Fellowship will decide, via an on-chain voting mechanism including all members, when to approve and merge RFPs. It does so by issuing an on-chain remark with the body RFP_APPROVE(xxxx, h) from the `Members` origin on the Polkadot Collectives blockchain, where xxxx is the number of the RFP and h is the blake2-256 hash of the raw proposal text. Once this remark has been approved, the PR can be merged. This on-chain process is designed to be resilient to where the RFPs are hosted and in what format, so it can be migrated away from GitHub in the future. The Fellowship should not approve more than one RFP with the same number.
 
