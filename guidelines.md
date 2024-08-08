@@ -1,6 +1,7 @@
 
 ### Important information for the management of RFPs
 
+
 |Steps |Description |Participants |
 |------|------------|-------------|
 |1 |RFP proposer **drafts a new RFP** using the RFP template and **opens a PR in the `RFPs` repository on GitHub**. Fellowship members review the RFP. |RFP proposer, Fellowship members |
