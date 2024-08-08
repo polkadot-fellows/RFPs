@@ -1,5 +1,5 @@
 # RFPs
-This repository contains a number of Requests for Proposals (RFPs) detailing specific tasks or projects needed to support the day-to-day operations of the Polkadot Technical Fellowship. These RFPs have been submitted for the sourcing and funding of new contributors/experts, as well as for the Fellowship's on-chain bodies to signal approval or disapproval of.
+This repository contains a number of Requests for Proposals (RFPs) detailing specific tasks or projects overseen by the Polkadot Technical Fellowship. These RFPs have been submitted for the sourcing and funding of new contributors/experts, as well as for the Fellowship's on-chain bodies to signal approval or disapproval of.
 
 
 ## Guidelines
