@@ -4,7 +4,7 @@ This repository contains a number of Requests for Proposals (RFPs) detailing spe
 
 ## Guidelines
 
-RFP proposers can find important information for the management of RFPs [here](https://github.com/anaelleltd/RFPs/blob/main/guidelines).
+RFP proposers can find important information for the management of RFPs [here](guidelines.md).
 
 
 ## Process
