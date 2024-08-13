@@ -1,6 +1,7 @@
 
 ### Important information for the management of RFPs
 
+RFP proposers must refer to the steps described below at all time.
 
 |Steps |Description |Participants |
 |------|------------|-------------|
