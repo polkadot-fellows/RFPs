@@ -2,7 +2,7 @@
 
 |                 |                                                                                                                                 |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Start Date**  | 2024/08/28                                                                                                                      |
+| **Start Date**  | 2024/08/27                                                                                                                      |
 | **Description** | Design, build, and maintain a fit-for-purpose UI and UX to support all on-chain operations of the Polkadot Technical Fellowship |
 | **Author**      | Anaelle LTD (on behalf of Gavin Wood & Bastian Köcher)                                                                          |
 
