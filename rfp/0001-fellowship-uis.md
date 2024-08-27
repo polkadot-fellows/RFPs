@@ -3,13 +3,13 @@
 |                 |                                                                                                                                   |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Start Date**  | 2024/08/27                                                                                                                        |
-| **Description** | Design, build, and maintain a fit-for-purpose UI and UX to support all on-chain operations of the *Polkadot Technical Fellowship* |
+| **Description** | Design, build, and maintain a fit for purpose UI and UX to support all on-chain operations of the *Polkadot Technical Fellowship* |
 | **Author**      | Anaelle LTD (on behalf of Gavin Wood & Bastian Köcher)                                                                            |
 
 
 ## Purpose and goals
 
-The purpose of this RFP is to invite dapp developers to design, build, and maintain a fit-for-purpose UI and UX to support all on-chain operations of the Polkadot Technical Fellowship.
+The purpose of this RFP is to invite dapp developers to design, build, and maintain a fit for purpose UI and UX to support all on-chain operations of the Polkadot Technical Fellowship.
 
 The primary goal is “*to enable Fellowship members and aspirational candidates to utilise and service this on-chain collective*”.
 
