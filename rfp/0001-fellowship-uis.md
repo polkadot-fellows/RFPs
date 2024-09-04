@@ -9,9 +9,9 @@
 
 ## Purpose and goals
 
-The purpose of this RFP is to invite dapp developers to design, build, and maintain a fit for purpose UI and UX to support all on-chain operations of the *Polkadot Technical Fellowship*.
+The purpose of this RFP is to invite 2 new teams of dapp developers to design, build, and maintain a fit for purpose UI and UX to support all on-chain operations of the *Polkadot Technical Fellowship*.
 
-The primary goal is “*to enable Fellowship members and aspirational candidates to utilise and service this on-chain collective*”.
+The primary goal is to diversify the current offering of Fellowship UIs and “*to enable Fellowship members and aspirational candidates to utilise and service this on-chain collective*”.
 
 
 
@@ -21,7 +21,7 @@ The total allocation available for this project is $500,000 USD.
 
 This allocation is based on the following costs comparison for Fellowship UIs:
 
-|Milestones |Polkassembly |Subsquare |RFP implementer (example)|
+|Milestones |Polkassembly |Subsquare |RFP implementer 1 (example)|
 |-----------|-------------|----------|-------------------------|
 |1          |$162,000 ([Finalised](https://docs.google.com/document/d/1lZGlBugwFcP_P5rfLpMyCFW49C_xqEkiFDA0zZETK3Y/edit#heading=h.dbbxpr5zj24u)) |$154,080 ([Finalised](https://polkadot.subsquare.io/referenda/631)) |$160,000 (Quantitative requirements 1-5) |
 |2          |$140,400 ([Ongoing](https://docs.google.com/document/d/1cClkj64t-BC92MIV3-Fq696Ac5yUJHBnnJkBZR4tz70/edit#heading=h.bxakey85xitb)) |$144,000 ([Ongoing](https://polkadot.subsquare.io/referenda/1001)) |$35,000 (Qualitative requirements 1-4) |
