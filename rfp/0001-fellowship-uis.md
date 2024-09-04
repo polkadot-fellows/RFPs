@@ -9,7 +9,7 @@
 
 ## Purpose and goals
 
-The purpose of this RFP is to invite 2 new teams of dapp developers to design, build, and maintain a fit for purpose UI and UX to support all on-chain operations of the *Polkadot Technical Fellowship*.
+The purpose of this RFP is to invite 2 new teams/dapp developers to design, build, and maintain a fit for purpose UI and UX to support all on-chain operations of the *Polkadot Technical Fellowship*.
 
 The primary goal is to diversify the current offering of Fellowship UIs and “*to enable Fellowship members and aspirational candidates to utilise and service this on-chain collective*”.
 
