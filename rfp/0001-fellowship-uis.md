@@ -56,7 +56,7 @@ Prospective applicants can access and use the following resources to inform thei
 - [Runtimes repo](https://github.com/polkadot-fellows/runtimes)
 - [RFCs repo](https://github.com/polkadot-fellows/RFCs)
 - [Evaluations repo](https://github.com/polkadot-fellows/Evaluations)
-- [Polkadot Wiki - Polkadot Technical Fellowship](https://wiki.polkadot.network/docs/learn-polkadot-technical-fellowship)
+- [Polkadot Technical Fellowship Website](https://polkadot-fellows.xyz/)
 
 
 ## Selection criteria
